@@ -19,8 +19,10 @@ Tutorial Pages:
 - [X] [Application Setup](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
 - [X] [Define and Access Database](http://flask.pocoo.org/docs/1.0/tutorial/database/)
 - [X] [Blueprints and Views](http://flask.pocoo.org/docs/1.0/tutorial/views/)
-- [X] [Templaces](http://flask.pocoo.org/docs/1.0/tutorial/templates/)
+- [X] [Templates](http://flask.pocoo.org/docs/1.0/tutorial/templates/)
 - [X] [Static](http://flask.pocoo.org/docs/1.0/tutorial/static/)
 - [X] [Blog](http://flask.pocoo.org/docs/1.0/tutorial/blog/)
+- [ ] [Make Project Installable](http://flask.pocoo.org/docs/1.0/tutorial/install/)
+- [ ] [Test Coverage](http://flask.pocoo.org/docs/1.0/tutorial/tests/)
 
 [Link to Brad's](https://github.com/bradleyjay/flask_tutorial)
