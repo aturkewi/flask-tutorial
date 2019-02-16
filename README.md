@@ -13,6 +13,8 @@ Boot:
 - Start venv with `. venv/bin/activate`
 - Start with `flask run`
 
-[Current step](http://flask.pocoo.org/docs/1.0/tutorial/blog/)
+Tutorial Pages:
+- [X] [Blueprints](http://flask.pocoo.org/docs/1.0/blueprints/)
+- [X] [Blog](http://flask.pocoo.org/docs/1.0/tutorial/blog/)
 
 [Link to Brad's](https://github.com/bradleyjay/flask_tutorial)
