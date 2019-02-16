@@ -14,7 +14,13 @@ Boot:
 - Start with `flask run`
 
 Tutorial Pages:
-- [X] [Blueprints](http://flask.pocoo.org/docs/1.0/blueprints/)
+- [X] [Tutorial](http://flask.pocoo.org/docs/1.0/tutorial/)
+- [X] [Project Layout](http://flask.pocoo.org/docs/1.0/tutorial/layout/)
+- [X] [Application Setup](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
+- [X] [Define and Access Database](http://flask.pocoo.org/docs/1.0/tutorial/database/)
+- [X] [Blueprints and Views](http://flask.pocoo.org/docs/1.0/tutorial/views/)
+- [X] [Templaces](http://flask.pocoo.org/docs/1.0/tutorial/templates/)
+- [X] [Static](http://flask.pocoo.org/docs/1.0/tutorial/static/)
 - [X] [Blog](http://flask.pocoo.org/docs/1.0/tutorial/blog/)
 
 [Link to Brad's](https://github.com/bradleyjay/flask_tutorial)
