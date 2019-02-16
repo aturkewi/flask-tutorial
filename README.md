@@ -22,7 +22,7 @@ Tutorial Pages:
 - [X] [Templates](http://flask.pocoo.org/docs/1.0/tutorial/templates/)
 - [X] [Static](http://flask.pocoo.org/docs/1.0/tutorial/static/)
 - [X] [Blog](http://flask.pocoo.org/docs/1.0/tutorial/blog/)
-- [ ] [Make Project Installable](http://flask.pocoo.org/docs/1.0/tutorial/install/)
-- [ ] [Test Coverage](http://flask.pocoo.org/docs/1.0/tutorial/tests/)
+- [X] [Make Project Installable](http://flask.pocoo.org/docs/1.0/tutorial/install/)
+- [X] [Test Coverage](http://flask.pocoo.org/docs/1.0/tutorial/tests/)
 
 [Link to Brad's](https://github.com/bradleyjay/flask_tutorial)
